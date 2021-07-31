@@ -1,5 +1,4 @@
 import { inject, injectable } from "tsyringe";
-import { Game } from "../../entities/Game";
 
 import { IGamesRepository } from "../../repositories/IGamesRepository";
 
