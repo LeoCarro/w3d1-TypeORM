@@ -16,4 +16,4 @@ class CountAllGamesUseCase {
     }
 }
 
-export { CountAllGamesUseCase };
+export { CountAllGamesUseCase }
